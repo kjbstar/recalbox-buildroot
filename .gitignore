@@ -17,3 +17,5 @@
 *.DS_Store
 *._.DS_Store
 .config
+recalbox.sublime-project
+recalbox.sublime-workspace
